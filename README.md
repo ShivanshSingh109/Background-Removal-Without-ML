@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Background Removal - README</title>
-</head>
 <body>
     <h1>Background Removal Without Deep Learning</h1>
     <p>This project implements background removal using classical image processing techniques such as:</p>
