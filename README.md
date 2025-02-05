@@ -34,10 +34,10 @@
     </ol>
     <h2>How to Run</h2>
     <pre>
-    git clone https://github.com/yourusername/Background-Removal-Without-ML.git
-    cd Background-Removal-Without-ML
+    git clone https://github.com/ShivanshSingh109/Background-Removal-Without-ML.git
+    cd bg remover
     pip install opencv-python numpy matplotlib
-    python background_removal.py --input path/to/image.jpg --output output.png
+    python /bgRemove.ipynb --input path/to/image.jpg --output output.png
     </pre>
     <p>Enjoy fast and efficient background removal without deep learning!</p>
 </body>
