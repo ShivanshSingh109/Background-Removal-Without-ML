@@ -16,12 +16,12 @@
             <th>Output Images</th>
         </tr>
         <tr>
-            <td><img src="input1.jpg" alt="Input Image 1" width="300"></td>
-            <td><img src="output1.png" alt="Output Image 1" width="300"></td>
+            <td><img src="bg remover/exampleImages/1.jpg" alt="Input Image 1" width="300"></td>
+            <td><img src="bg remover/output/1.png" alt="Output Image 1" width="300"></td>
         </tr>
         <tr>
-            <td><img src="input2.jpg" alt="Input Image 2" width="300"></td>
-            <td><img src="output2.png" alt="Output Image 2" width="300"></td>
+            <td><img src="bg remover/exampleImages/2.jpg" alt="Input Image 2" width="300"></td>
+            <td><img src="bg remover/output/2.png" alt="Output Image 2" width="300"></td>
         </tr>
     </table>
     <h2>How It Works</h2>
