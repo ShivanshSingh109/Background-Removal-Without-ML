@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Background Removal - README</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2 { color: #333; }
-        .container { display: flex; justify-content: space-between; }
-        .column { width: 48%; }
-        img { width: 100%; border: 1px solid #ddd; border-radius: 5px; }
-        code { background: #f4f4f4; padding: 5px; border-radius: 5px; }
-        pre { background: #222; color: #fff; padding: 10px; border-radius: 5px; }
-    </style>
-</head>
+
 <body>
     <h1>Background Removal Without Deep Learning</h1>
     <p>This project implements background removal using classical image processing techniques such as:</p>
